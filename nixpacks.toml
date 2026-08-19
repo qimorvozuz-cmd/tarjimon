@@ -1,0 +1,14 @@
+[phases.setup]
+aptPkgs = [
+  "tesseract-ocr",
+  "tesseract-ocr-eng",
+  "tesseract-ocr-rus",
+  "tesseract-ocr-tur",
+  "tesseract-ocr-ara",
+  "tesseract-ocr-deu",
+  "tesseract-ocr-fra",
+  "tesseract-ocr-spa",
+  "tesseract-ocr-jpn",
+  "tesseract-ocr-kor",
+  "tesseract-ocr-chi-sim"
+]
